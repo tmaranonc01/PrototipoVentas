@@ -1,0 +1,14 @@
+C:\Users\DAM2XX\Documents\DI\PrototipoVentas\bin\Debug\PrototipoVentas.exe.config
+C:\Users\DAM2XX\Documents\DI\PrototipoVentas\bin\Debug\PrototipoVentas.exe
+C:\Users\DAM2XX\Documents\DI\PrototipoVentas\bin\Debug\PrototipoVentas.pdb
+C:\Users\DAM2XX\Documents\DI\PrototipoVentas\obj\Debug\PrototipoVentas.csprojAssemblyReference.cache
+C:\Users\DAM2XX\Documents\DI\PrototipoVentas\obj\Debug\MainWindow.g.cs
+C:\Users\DAM2XX\Documents\DI\PrototipoVentas\obj\Debug\App.g.cs
+C:\Users\DAM2XX\Documents\DI\PrototipoVentas\obj\Debug\PrototipoVentas_MarkupCompile.cache
+C:\Users\DAM2XX\Documents\DI\PrototipoVentas\obj\Debug\PrototipoVentas_MarkupCompile.lref
+C:\Users\DAM2XX\Documents\DI\PrototipoVentas\obj\Debug\MainWindow.baml
+C:\Users\DAM2XX\Documents\DI\PrototipoVentas\obj\Debug\PrototipoVentas.g.resources
+C:\Users\DAM2XX\Documents\DI\PrototipoVentas\obj\Debug\PrototipoVentas.Properties.Resources.resources
+C:\Users\DAM2XX\Documents\DI\PrototipoVentas\obj\Debug\PrototipoVentas.csproj.GenerateResource.cache
+C:\Users\DAM2XX\Documents\DI\PrototipoVentas\obj\Debug\PrototipoVentas.exe
+C:\Users\DAM2XX\Documents\DI\PrototipoVentas\obj\Debug\PrototipoVentas.pdb
