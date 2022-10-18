@@ -25,6 +25,7 @@ namespace PrototipoVentas.Model
             set
             {
                 idVenta = value;
+                OnPropertyChanged("idVenta");
             }
         }
 
@@ -37,6 +38,7 @@ namespace PrototipoVentas.Model
             set
             {
                 fecha = value;
+                OnPropertyChanged("fecha");
             }
         }
 
@@ -49,6 +51,7 @@ namespace PrototipoVentas.Model
             set
             {
                 importe = value;
+                OnPropertyChanged("importe");
             }
         }
 
@@ -61,6 +64,7 @@ namespace PrototipoVentas.Model
             set
             {
                 numTarjeta = value;
+                OnPropertyChanged("numTarjeta");
             }
         }
     }

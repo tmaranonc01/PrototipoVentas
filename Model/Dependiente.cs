@@ -25,7 +25,7 @@ namespace PrototipoVentas.Model
             set
             {
                 segSocial = value;
-                //OnPropertyChanged("segSocial");
+                OnPropertyChanged("segSocial");
             }
         }
         public string Nombre
@@ -37,7 +37,7 @@ namespace PrototipoVentas.Model
             set
             {
                 nombre = value;
-                //OnPropertyChanged("nombre");
+                OnPropertyChanged("nombre");
             }
         }
         public string Apellido1
@@ -49,7 +49,7 @@ namespace PrototipoVentas.Model
             set
             {
                 apellido1 = value;
-                //OnPropertyChanged("apellido1");
+                OnPropertyChanged("apellido1");
             }
         }
         public string Apellido2
@@ -61,7 +61,7 @@ namespace PrototipoVentas.Model
             set
             {
                 apellido2 = value;
-                //OnPropertyChanged("apellido2");
+                OnPropertyChanged("apellido2");
             }
         }
         public double Comision
@@ -73,7 +73,7 @@ namespace PrototipoVentas.Model
             set
             {
                 comision = value;
-                //OnPropertyChanged("comision");
+                OnPropertyChanged("comision");
             }
         }
 

@@ -26,6 +26,7 @@ namespace PrototipoVentas.Model
             set
             {
                 idArticulo = value;
+                OnPropertyChanged("idArticulo");
             }
         }
         public string Descripcion
@@ -37,6 +38,7 @@ namespace PrototipoVentas.Model
             set
             {
                 descripcion = value;
+                OnPropertyChanged("descripcion");
             }
         }
         public double PrecioCoste
@@ -48,6 +50,7 @@ namespace PrototipoVentas.Model
             set
             {
                 precioCoste = value;
+                OnPropertyChanged("precioCoste");
             }
         }
         public double IVA
@@ -59,6 +62,7 @@ namespace PrototipoVentas.Model
             set
             {
                 iva = value;
+                OnPropertyChanged("iva");
             }
         }
         public double PVP
@@ -70,11 +74,10 @@ namespace PrototipoVentas.Model
             set
             {
                 pvp = value;
+                OnPropertyChanged("pvp");
             }
         }
     }
 }
-
-/*Hola Mundo*/
 
  
